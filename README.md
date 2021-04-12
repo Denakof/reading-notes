@@ -9,3 +9,4 @@
 # 3 reminders to yourself of how to keep yourself in a growth mindset
 
 [read01](https://denakof.github.io/reading-notes/read01)
+[read02](https://denakof.github.io/reading-notes/read02)
