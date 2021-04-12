@@ -4,3 +4,6 @@
 [***listen to this blog***](https://soundcloud.com/atlassian-software/perseverance-gumption-traps-and-maintaining-a-growth-mindset)
 
 [Growth mindest](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+
+
+# 3 reminders to yourself of how to keep yourself in a growth mindset
