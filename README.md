@@ -14,10 +14,9 @@
 |--|
 |[read03](https://denakof.github.io/reading-notesread03)|
 |[read04](https://denakof.github.io/reading-notes/read04)|
+|[read04b](https://denakof.github.io/reading-noter/read04b)|
 |[read05](https://denakof.github.io/reading-notes/read05)|
 |[read06](https://denakof.github.io/reading-notes/read06)|
-<<<<<<< HEAD
+
 |[read07](https://denakof.github.io/reading-notes/read07)|
-=======
-|[read07](https://denakof.github.io/reading-notes/read07)|
->>>>>>> bdb71bc12629a863f655646aff196735b1ca70ee
+|[read09](https://denakof.github.io/reading-notes/read09)
