@@ -9,14 +9,12 @@
 # 3 reminders to yourself of how to keep yourself in a growth mindset
 
 |[read01](https://denakof.github.io/reading-notes/read01)|
-|---|
+|-----|
 |[read02](https://denakof.github.io/reading-notes/read02)|
-|--|
 |[read03](https://denakof.github.io/reading-notesread03)|
 |[read04](https://denakof.github.io/reading-notes/read04)|
 |[read04b](https://denakof.github.io/reading-noter/read04b)|
 |[read05](https://denakof.github.io/reading-notes/read05)|
 |[read06](https://denakof.github.io/reading-notes/read06)|
-
 |[read07](https://denakof.github.io/reading-notes/read07)|
-|[read09](https://denakof.github.io/reading-notes/read09)
+|[read09](https://denakof.github.io/reading-notes/read09)|
