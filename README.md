@@ -16,4 +16,8 @@
 |[read04](https://denakof.github.io/reading-notes/read04)|
 |[read05](https://denakof.github.io/reading-notes/read05)|
 |[read06](https://denakof.github.io/reading-notes/read06)|
+<<<<<<< HEAD
 |[read07](https://denakof.github.io/reading-notes/read07)|
+=======
+|[read07](https://denakof.github.io/reading-notes/read07)|
+>>>>>>> bdb71bc12629a863f655646aff196735b1ca70ee
