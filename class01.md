@@ -38,8 +38,32 @@
 
 
 ## summary
+
 - the new HTML5 elements i XX ndicate the purpose of different parts of a web page and help to describe its structure.
-- The new elements provide clearer code (compared with using multiple <div> elements).
-- Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
-- To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google
+
+* The new elements provide clearer code (compared with using multiple <div> elements).
+
+* Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
+
+* To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google
 ![img](https://i.pinimg.com/originals/c3/de/24/c3de24c8c79004b349f12052f76d70b0.png)
+
+![img](https://cdn6.f-cdn.com/files/download/107256233/1.png)
+
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nz78jGRqQ6msUI3Y0sUMLD52BBG2hLmshg&usqp=CAU)
+
+* It's important to understand w XX ho your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
+* Site maps allow you to plan the structure of a site.
+* Wireframes allow you to organize the information that will need to go on each page.
+* Design is about communication. Visual hierarchy helps
+* visitors understand what you are trying to tell them.
+* You can differentiate between pieces of information using size, color, and style.
+* You can use grouping and similarity to help simplify the information you present.
+
+####  example of a flowchart:
+
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/1200px-LampFlowchart.svg.png)
+
+![img](https://miro.medium.com/max/1838/1*S0FGswI6fwF__xfhlnZL6A.jpeg)
+
+##### A script is a series of instructions that the computer can follow in order to achieve a goal.Each time the script runs, it might only use a subset of all the instructions. Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
