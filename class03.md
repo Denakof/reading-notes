@@ -65,4 +65,4 @@
 - It is possible to hide elements using the display and visibility properties.
 - Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
 - Legibility can be improved by controlling the width of boxes containing text and the leading.
-- CSS3 has introduced the ability to create image borders and rounded borders.
+- CSS3 has introduced the ability to create image borders and rounded borders
