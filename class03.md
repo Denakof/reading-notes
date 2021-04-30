@@ -59,7 +59,7 @@
 ![img](https://i.pinimg.com/originals/41/0b/30/410b30a354bfffe828c542fc120dccfc.png)
 ![img](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element/cookbook-center.png)
 
-- CSS treats each HTML e XX lement as if it has its own box.
+- CSS treats each HTML element as if it has its own box.
 - You can use CSS to control the dimensions of a box.
 - You can also control the borders, margin and padding for each box with CSS.
 - It is possible to hide elements using the display and visibility properties.
