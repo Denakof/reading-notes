@@ -1,6 +1,6 @@
 # How you can benefit from a growth mindset
 
-## The *growth mindset* can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
+## The *growth mindset* can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement
 
 [***listen to this blog***](https://soundcloud.com/atlassian-software/perseverance-gumption-traps-and-maintaining-a-growth-mindset)
 
@@ -24,4 +24,5 @@
 |[class02](https://denakof.github.io/reading-notes/class02)|
 |[class03](https://denakof.github.io/reading-notes/class03)|
 |[class04](https://denakof.github.io/reading-notes/class04)|)
-|class05|(https://denakof.github.io/reading-notes/class05)
+|class05|(https://denakof.github.io/reading-notes/class05)|
+|class06|(https://denakof.github.io/reading-notes/)|
