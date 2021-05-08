@@ -23,6 +23,9 @@
 |[class01](https://denakof.github.io/reading-notes/class01)|
 |[class02](https://denakof.github.io/reading-notes/class02)|
 |[class03](https://denakof.github.io/reading-notes/class03)|
-|[class04](https://denakof.github.io/reading-notes/class04)|)
-|class05|(https://denakof.github.io/reading-notes/class05)|
-|class06|(https://denakof.github.io/reading-notes/)|
+|[class04](https://denakof.github.io/reading-notes/class04)|
+|[class05](https://denakof.github.io/reading-notes/class05)|
+|[class06]|(https://denakof.github.io/reading-notes/class06)|
+|[class07]|(https://denakof.github.io/reading-notes/class07)|
+|[class08]|(https://denakof.github.io/reading-notes/class08)|
+|[class09]|(https://denakof.github.io/reading-notes/class09)|
