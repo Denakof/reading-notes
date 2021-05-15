@@ -30,4 +30,4 @@
 |[class08](https://denakof.github.io/reading-notes/class08)|
 |[class09](https://denakof.github.io/reading-notes/class09)|
 |[class10](https://denakof.github.io/reading-notes/class10)|
-
+|[class11](https://denakof.github.io/reading-notes/class11)|
