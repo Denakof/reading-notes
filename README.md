@@ -31,3 +31,5 @@
 |[class09](https://denakof.github.io/reading-notes/class09)|
 |[class10](https://denakof.github.io/reading-notes/class10)|
 |[class11](https://denakof.github.io/reading-notes/class11)|
+|[class12](https://denakof.github.io/reading-notes/class12)|
+|[class13](https://denakof.github.io/reading-notes/class13)|
