@@ -2,7 +2,7 @@
 
 ## What is a Component?
 
-### A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
+### A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface
 
 ## Views of a Component
 
@@ -54,7 +54,7 @@
 
 ## What is the flow of props?
 
-## Recap:
+## Recap
 
 - Props stand for properties and is a special keyword in React
 - Props are being passed to components like function arguments
